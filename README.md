@@ -2,7 +2,7 @@
 
 ## What's This All About?
 
-![Backend Core Test](https://gist.github.com/javisantana/d94765631591d788b6f2b816913ea08f)
+[Backend Core Test](https://gist.github.com/javisantana/d94765631591d788b6f2b816913ea08f)
 
 This code test was designed for a Core position at Tinybird. At the time of writing, I'm already working there (mostly on backend stuff) and I'm not evaluating candidates for this role. I just wanted to see how someone might approach this specific test. Spoiler alert: it was a fun challenge, and yes, it took me way longer than 2 hours (closer to 4).
 
@@ -144,4 +144,5 @@ Run clients:
 
 Quick demo:
 
-![demo video](demo.mp4)
+
+https://github.com/user-attachments/assets/101e7897-c0b6-443e-a86c-2118466ff27a
